@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Fredi Bulshtein
 
-<!--
-**fredi1574/fredi1574** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer with a passion for building clean, responsive web applications using TypeScript, React, Next.js, and Java. I recently completed my B.Sc. in Software Engineering and have built multiple full-stack projects from scratch, focusing on real-world use cases like job tracking and lecturer review platforms.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, Firebase, REST APIs
+- **Languages:** TypeScript, JavaScript, Java, Python, C
+- **Databases:** PostgreSQL, MongoDB, MySQL
+- **Tools:** Git, Prisma, Vercel, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+- [JobTracker](https://github.com/fredi1574/jobTrack): Track and manage job applications with filters, auth, and a clean UI.
+- [ReviewHive](https://github.com/fredi1574/ReviewHive): A platform for students to anonymously review their lecturers.
+- [Course Enrollment System](https://github.com/fredi1574/CEMS-GroupProject): University enrollment management built with JavaFX and MySQL.
+
+## 📫 Let's connect
+- [LinkedIn](https://www.linkedin.com/in/fredibulshtein/)
+- [Email](mailto:fredi1574@gmail.com)
+
+I'm currently looking for my first professional role. If you're hiring or want to collaborate, feel free to reach out!
