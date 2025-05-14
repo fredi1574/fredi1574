@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Fredi Bulshtein
 
-I'm a full-stack developer with a passion for building clean, responsive web applications using TypeScript, React, Next.js, and Java. I recently completed my B.Sc. in Software Engineering and have built multiple full-stack projects from scratch, focusing on real-world use cases like job tracking and lecturer review platforms.
+I'm a full-stack developer passionate about building clean, responsive web applications using React and Next.js. I recently completed my B.Sc. in Software Engineering and have built multiple full-stack projects from scratch, focusing on real-world use cases like job tracking and lecturer review platforms.
 
 ## 🛠 Tech Stack
 - **Frontend:** React, Next.js, Tailwind CSS
