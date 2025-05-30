@@ -3,7 +3,7 @@
 🎓 B.Sc. in Software Engineering from Braude College  
 💻 Full-Stack Developer specializing in **React**, **Next.js**, and **TypeScript**  
 🚀 Passionate about building clean, responsive, real-world web applications  
-💼 **Actively seeking a full-time Frontend or Full-Stack role** (Remote or Israel-based)
+💼 **Actively seeking a full-time Frontend or Full-Stack role**
 
 ---
 
