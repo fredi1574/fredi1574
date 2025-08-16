@@ -38,14 +38,14 @@
 🛠 **Next.js**, **Tailwind CSS**, **Firestore**
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 ![Fredi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fredi1574&show_icons=true&theme=default&hide_title=true&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fredi1574&layout=compact&hide_border=true)
 
 ---
-
+-->
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fredibulshtein/)  
